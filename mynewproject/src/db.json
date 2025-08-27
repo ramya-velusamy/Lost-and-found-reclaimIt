@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "ramya@dr.in",
+      "password": 1224
+    },
+    {
+      "id": "534d",
+      "email": "theju.tmy@gmail.com",
+      "password": "123344"
+    },
+    {
+      "id": "920b",
+      "email": "9750ramya@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "3ccf",
+      "email": "22cs077@drngpit.ac.in",
+      "password": "1234567"
+    },
+    {
+      "id": "f5a1",
+      "email": "22cs076@drngpit.ac.in",
+      "password": "12345"
+    }
+  ]
+}

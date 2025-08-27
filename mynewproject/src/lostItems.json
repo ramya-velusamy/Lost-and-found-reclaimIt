@@ -1,0 +1,40 @@
+{
+  "lostItems": [
+    {
+      "id": "3db5",
+      "itemName": "watch 56",
+      "country": "India",
+      "state": "TamilNadu",
+      "city": "Coimbatore",
+      "locationDesc": "",
+      "date": "2025-07-03",
+      "description": "432098092",
+      "contact": "9750ramya@gmail.com",
+      "image": ""
+    },
+    {
+      "id": "4bf8",
+      "itemName": "pencil",
+      "country": "India",
+      "state": "TamilNadu",
+      "city": "Coimbatore",
+      "locationDesc": "",
+      "date": "2025-07-04",
+      "description": "pink color",
+      "contact": "9750ramya@gmail.com",
+      "image": ""
+    },
+    {
+      "id": "c996",
+      "itemName": "Laptop",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "location": "marina kadal",
+      "date": "2030-11-23",
+      "description": "color:black,\nrotate:180,\nbrand:hp-victus",
+      "contact": "9750ramya@gmail.com",
+      "image": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "shopItems": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with 2.4GHz connection.",
+      "price": 799,
+      "image": "https://example.com/mouse.jpg"
+    },
+    {
+      "id": 2,
+      "name": "USB-C Charger",
+      "description": "Fast charging USB-C adapter compatible with all devices.",
+      "price": 1299,
+      "image": "https://example.com/charger.jpg"
+    }
+  ]
+}
