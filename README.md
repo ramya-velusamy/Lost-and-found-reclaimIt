@@ -22,21 +22,14 @@ Navigation links are provided for other modules like **LostItems** **FoundItems*
 ---
 
 ### 🛒 Shop Page
-![Shop Page](./OutputImages/shopPage.png)  
+![Shop Page](./OutputImages/ShopPage.png)  
 The **Shop Page** works like an e-commerce site, where users can browse and purchase items.  
-
----
-
-### 📝 Report Page
-![Report Page](./OutputImages/reportItemsPage.png)  
-The **Report Page** allows users to **submit feedback, queries, or suggestions**.  
-Form inputs are handled and stored in the backend for review.  
 
 ---
 
 ### 🔑 Lost and found Items 
 ![LostItems](./OutputImages/lostItemsPage.png)  
-![FoundItems](./OutputImages/foundItemsPage.png)  
+![FoundItems](./OutputImages/ReportItemsPage.png)  
 Users can upload the lost items and found items in a form like format and that will be verified and authenticated and displayed in claimed Pages if they match.
 As a additional features of that in future has a plan of mailing the customers about the matches indicating **Your items are found**.
 
